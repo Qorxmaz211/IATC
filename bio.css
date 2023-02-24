@@ -29,7 +29,7 @@ img {
 }
 
 .name_container {
-    display: flex;
+    display: inline-flex;
 }
 
 .contact {
